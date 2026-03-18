@@ -1,0 +1,19 @@
+# autobrand
+history/
+!history/.gitkeep
+
+# python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# uv
+uv.lock
+
+# env
+.env
+
+# os
+.DS_Store
+Thumbs.db
