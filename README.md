@@ -2,7 +2,7 @@
 
 ![autobrand evolution](history_preview.png)
 
-*There was a time when brand identity was a 6-week engagement. A designer would meet the founders, absorb their energy, disappear into a cave, and emerge with three directions on a Monday morning. The founders would pick one. The designer would refine it. Everyone would call it "the brand." That era is ending. Not because the craft doesn't matter. Because the craft is moving up a level. The designer doesn't make the identity anymore. The designer writes the brief that teaches the machine what the identity should feel like. The taste is still human. The generation is not. This repo is the first experiment in autonomous brand evolution. -@Dragoon0x, March 2026*
+*There was a time when brand identity was a 6-week engagement. A designer would meet the founders, absorb their energy, disappear into a cave, and emerge with three directions on a Monday morning. The founders would pick one. The designer would refine it. Everyone would call it "the brand." That era is ending. Not because the craft doesn't matter. Because the craft is moving up a level. The designer doesn't make the identity anymore. The designer writes the brief that teaches the machine what the identity should feel like. The taste is still human.*
 
 The idea: write a brand brief in plain language. Hand it to an AI agent. Walk away. The agent generates brand identity elements, scores them against your brief using a vision+language model, keeps what works, discards what doesn't, mutates the survivors, and repeats. You wake up to a complete identity system and the full evolution log showing how it got there.
 
